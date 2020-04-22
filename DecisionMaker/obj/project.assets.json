@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\desha\\OneDrive\\Studies\\Programming\\Grand Circus\\DecisionMaker\\DecisionMaker\\DecisionMaker.csproj",
+      "projectUniqueName": "C:\\Users\\desha\\source\\repos\\DecisionMaker\\DecisionMaker\\DecisionMaker.csproj",
       "projectName": "DecisionMaker",
-      "projectPath": "C:\\Users\\desha\\OneDrive\\Studies\\Programming\\Grand Circus\\DecisionMaker\\DecisionMaker\\DecisionMaker.csproj",
+      "projectPath": "C:\\Users\\desha\\source\\repos\\DecisionMaker\\DecisionMaker\\DecisionMaker.csproj",
       "packagesPath": "C:\\Users\\desha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\desha\\OneDrive\\Studies\\Programming\\Grand Circus\\DecisionMaker\\DecisionMaker\\obj\\",
+      "outputPath": "C:\\Users\\desha\\source\\repos\\DecisionMaker\\DecisionMaker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\desha\\AppData\\Roaming\\NuGet\\NuGet.Config",
